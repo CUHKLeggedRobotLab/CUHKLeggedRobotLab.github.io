@@ -5,12 +5,20 @@
     <link>https://CUHKLeggedRobotLab.github.io/</link>
       <atom:link href="https://CUHKLeggedRobotLab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>CUHK Legged Robot Lab</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 10 Sep 2022 19:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 13 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://CUHKLeggedRobotLab.github.io/media/icon_hu78cc056d28a636166799e6c071103fe6_34774_512x512_fill_lanczos_center_3.png</url>
       <title>CUHK Legged Robot Lab</title>
       <link>https://CUHKLeggedRobotLab.github.io/</link>
     </image>
+    
+    <item>
+      <title>GenLoco: Generalized Locomotion Controllers for Quadrupedal Robots</title>
+      <link>https://CUHKLeggedRobotLab.github.io/publication/genloco_hb/</link>
+      <pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://CUHKLeggedRobotLab.github.io/publication/genloco_hb/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>VBL Representation-Free Model Predictive Control</title>
