@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bipedal Robot | CUHK Legged Robot Lab</title>
+    <title>Bipedal Robot | CUHK Legged Robot Lab (CUHKLRL)</title>
     <link>https://CUHKLeggedRobotLab.github.io/tag/bipedal-robot/</link>
       <atom:link href="https://CUHKLeggedRobotLab.github.io/tag/bipedal-robot/index.xml" rel="self" type="application/rss+xml" />
     <description>Bipedal Robot</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 13 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://CUHKLeggedRobotLab.github.io/media/icon_hu78cc056d28a636166799e6c071103fe6_34774_512x512_fill_lanczos_center_3.png</url>
+      <url>https://CUHKLeggedRobotLab.github.io/media/icon_hubbc5c9df4c1856a6651b4bbb52031135_179537_512x512_fill_lanczos_center_3.png</url>
       <title>Bipedal Robot</title>
       <link>https://CUHKLeggedRobotLab.github.io/tag/bipedal-robot/</link>
     </image>
