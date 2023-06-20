@@ -2,8 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://CUHKLeggedRobotLab.github.io/tag/autonomous-driving/</loc>
+    <lastmod>2023-06-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://CUHKLeggedRobotLab.github.io/tag/computer-vision/</loc>
+    <lastmod>2023-06-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://CUHKLeggedRobotLab.github.io/</loc>
-    <lastmod>2022-12-13T00:00:00+00:00</lastmod>
+    <lastmod>2023-06-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://CUHKLeggedRobotLab.github.io/people/jinhu/</loc>
+    <lastmod>2023-06-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://CUHKLeggedRobotLab.github.io/tag/multi-sensor-fusion/</loc>
+    <lastmod>2023-06-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://CUHKLeggedRobotLab.github.io/people/</loc>
+    <lastmod>2023-06-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://CUHKLeggedRobotLab.github.io/tag/slam/</loc>
+    <lastmod>2023-06-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://CUHKLeggedRobotLab.github.io/tags/</loc>
+    <lastmod>2023-06-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://CUHKLeggedRobotLab.github.io/talk/robust-output-regulation-for-autonomous-robots/</loc>
@@ -66,10 +94,6 @@
     <lastmod>2022-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://CUHKLeggedRobotLab.github.io/people/</loc>
-    <lastmod>2022-09-07T14:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://CUHKLeggedRobotLab.github.io/post/</loc>
     <lastmod>2022-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -80,10 +104,6 @@
   </url><url>
     <loc>https://CUHKLeggedRobotLab.github.io/tag/reinforcement-learning/</loc>
     <lastmod>2022-09-07T14:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://CUHKLeggedRobotLab.github.io/tags/</loc>
-    <lastmod>2022-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://CUHKLeggedRobotLab.github.io/people/xuanqi/</loc>
