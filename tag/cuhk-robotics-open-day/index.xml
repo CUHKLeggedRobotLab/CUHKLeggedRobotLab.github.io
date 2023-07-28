@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | CUHK Legged Robot Lab (CUHKLRL)</title>
-    <link>https://CUHKLeggedRobotLab.github.io/post/</link>
-      <atom:link href="https://CUHKLeggedRobotLab.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Posts</description>
+    <title>CUHK Robotics Open Day | CUHK Legged Robot Lab (CUHKLRL)</title>
+    <link>https://CUHKLeggedRobotLab.github.io/tag/cuhk-robotics-open-day/</link>
+      <atom:link href="https://CUHKLeggedRobotLab.github.io/tag/cuhk-robotics-open-day/index.xml" rel="self" type="application/rss+xml" />
+    <description>CUHK Robotics Open Day</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://CUHKLeggedRobotLab.github.io/media/icon_hubbc5c9df4c1856a6651b4bbb52031135_179537_512x512_fill_lanczos_center_3.png</url>
-      <title>Posts</title>
-      <link>https://CUHKLeggedRobotLab.github.io/post/</link>
+      <title>CUHK Robotics Open Day</title>
+      <link>https://CUHKLeggedRobotLab.github.io/tag/cuhk-robotics-open-day/</link>
     </image>
     
     <item>
