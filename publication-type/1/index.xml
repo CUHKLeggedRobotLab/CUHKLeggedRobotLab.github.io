@@ -5,12 +5,20 @@
     <link>https://CUHKLeggedRobotLab.github.io/publication-type/1/</link>
       <atom:link href="https://CUHKLeggedRobotLab.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 13 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://CUHKLeggedRobotLab.github.io/media/icon_hubbc5c9df4c1856a6651b4bbb52031135_179537_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://CUHKLeggedRobotLab.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Evolutionary-Based Online Motion Planning Framework for Quadruped Robot Jumping</title>
+      <link>https://CUHKLeggedRobotLab.github.io/publication/online_jumping/</link>
+      <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://CUHKLeggedRobotLab.github.io/publication/online_jumping/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>GenLoco: Generalized Locomotion Controllers for Quadrupedal Robots</title>
