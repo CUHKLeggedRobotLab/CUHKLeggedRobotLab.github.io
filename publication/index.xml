@@ -5,12 +5,20 @@
     <link>https://CUHKLeggedRobotLab.github.io/publication/</link>
       <atom:link href="https://CUHKLeggedRobotLab.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 09 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://CUHKLeggedRobotLab.github.io/media/icon_hubbc5c9df4c1856a6651b4bbb52031135_179537_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://CUHKLeggedRobotLab.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Adaptive Model Predictive Control with Data-driven Error Model for Quadrupedal Locomotion</title>
+      <link>https://CUHKLeggedRobotLab.github.io/publication/data_driven_xuanqi/</link>
+      <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://CUHKLeggedRobotLab.github.io/publication/data_driven_xuanqi/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Evolutionary-Based Online Motion Planning Framework for Quadruped Robot Jumping</title>
