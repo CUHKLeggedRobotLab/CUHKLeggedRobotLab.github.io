@@ -5,12 +5,21 @@
     <link>https://CUHKLeggedRobotLab.github.io/research/</link>
       <atom:link href="https://CUHKLeggedRobotLab.github.io/research/index.xml" rel="self" type="application/rss+xml" />
     <description>Researches</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://CUHKLeggedRobotLab.github.io/media/icon_hubbc5c9df4c1856a6651b4bbb52031135_179537_512x512_fill_lanczos_center_3.png</url>
       <title>Researches</title>
       <link>https://CUHKLeggedRobotLab.github.io/research/</link>
     </image>
+    
+    <item>
+      <title>Humanoid robot design, control and trajectory planning</title>
+      <link>https://CUHKLeggedRobotLab.github.io/research/humanoid_robot/</link>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://CUHKLeggedRobotLab.github.io/research/humanoid_robot/</guid>
+      <description>&lt;p&gt;The aim of this research theme is to try to empower quadrupedal robot two point feet walking using existing gradient-based, reinforcement learning, meta-heuristic-based algorithms, etc. Currently, ongoing!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Quadruped robot walking like lizard with two point feet</title>
