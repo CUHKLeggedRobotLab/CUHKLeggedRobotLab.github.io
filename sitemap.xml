@@ -2,12 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://CUHKLeggedRobotLab.github.io/tag/bipedal-robot/</loc>
-    <lastmod>2024-02-06T21:00:00+00:00</lastmod>
+    <loc>https://CUHKLeggedRobotLab.github.io/publication-type/1/</loc>
+    <lastmod>2024-03-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://CUHKLeggedRobotLab.github.io/publication/vmc_jumping/</loc>
+    <lastmod>2024-03-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://CUHKLeggedRobotLab.github.io/</loc>
-    <lastmod>2024-02-09T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://CUHKLeggedRobotLab.github.io/tag/cuhk-lrl/</loc>
+    <lastmod>2024-03-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://CUHKLeggedRobotLab.github.io/post/mountain_day_photos/</loc>
+    <lastmod>2024-03-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://CUHKLeggedRobotLab.github.io/tag/lab-holidays/</loc>
+    <lastmod>2024-03-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://CUHKLeggedRobotLab.github.io/tag/lab-party/</loc>
+    <lastmod>2024-03-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://CUHKLeggedRobotLab.github.io/post/</loc>
+    <lastmod>2024-03-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://CUHKLeggedRobotLab.github.io/publication_types/</loc>
+    <lastmod>2024-03-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://CUHKLeggedRobotLab.github.io/publication/</loc>
+    <lastmod>2024-03-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://CUHKLeggedRobotLab.github.io/tags/</loc>
+    <lastmod>2024-03-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://CUHKLeggedRobotLab.github.io/tag/bipedal-robot/</loc>
+    <lastmod>2024-02-06T21:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://CUHKLeggedRobotLab.github.io/tag/optimal-control/</loc>
@@ -30,24 +70,12 @@
     <lastmod>2024-02-06T21:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://CUHKLeggedRobotLab.github.io/tags/</loc>
-    <lastmod>2024-02-06T21:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://CUHKLeggedRobotLab.github.io/publication-type/1/</loc>
-    <lastmod>2024-02-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://CUHKLeggedRobotLab.github.io/publication/data_driven_xuanqi/</loc>
     <lastmod>2024-02-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://CUHKLeggedRobotLab.github.io/publication_types/</loc>
-    <lastmod>2024-02-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://CUHKLeggedRobotLab.github.io/publication/</loc>
-    <lastmod>2024-02-09T00:00:00+00:00</lastmod>
+    <loc>https://CUHKLeggedRobotLab.github.io/tag/humanoid-robot/</loc>
+    <lastmod>2024-02-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://CUHKLeggedRobotLab.github.io/research/humanoid_robot/</loc>
@@ -56,6 +84,14 @@
   </url><url>
     <loc>https://CUHKLeggedRobotLab.github.io/research/</loc>
     <lastmod>2024-02-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://CUHKLeggedRobotLab.github.io/people/hongya/</loc>
+    <lastmod>2024-01-06T05:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://CUHKLeggedRobotLab.github.io/tag/mech-design/</loc>
+    <lastmod>2024-01-06T05:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://CUHKLeggedRobotLab.github.io/people/lingwei/</loc>
@@ -71,10 +107,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://CUHKLeggedRobotLab.github.io/post/cuhk_open_day_photos/</loc>
-    <lastmod>2023-07-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://CUHKLeggedRobotLab.github.io/post/</loc>
     <lastmod>2023-07-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
