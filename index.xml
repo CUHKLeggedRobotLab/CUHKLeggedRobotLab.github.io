@@ -74,6 +74,24 @@
     </item>
     
     <item>
+      <title>Loco-Manipulator design, control and trajectory planning</title>
+      <link>https://CUHKLeggedRobotLab.github.io/research/quadrupedal_manipulator/</link>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://CUHKLeggedRobotLab.github.io/research/quadrupedal_manipulator/</guid>
+      <description>&lt;p&gt;A research topic focus on using optimization approaches to give humanoid robot walking fast and stable. Will be realease soon.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wheel-legged robot design, control and trajectory planning</title>
+      <link>https://CUHKLeggedRobotLab.github.io/research/wheel_legged_robot/</link>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://CUHKLeggedRobotLab.github.io/research/wheel_legged_robot/</guid>
+      <description>&lt;p&gt;A research topic focus on using optimization approaches to give humanoid robot walking fast and stable. Will be realease soon.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Hongya Zhao Mech Enginner [2024-]</title>
       <link>https://CUHKLeggedRobotLab.github.io/people/hongya/</link>
       <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
@@ -218,15 +236,6 @@
 &lt;ol&gt;
 &lt;li&gt;Will be releasing soon.&lt;/li&gt;
 &lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Quadruped robot walking like lizard with two point feet</title>
-      <link>https://CUHKLeggedRobotLab.github.io/research/quadruped_two_leg_walking/</link>
-      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://CUHKLeggedRobotLab.github.io/research/quadruped_two_leg_walking/</guid>
-      <description>&lt;p&gt;The aim of this research theme is to try to empower quadrupedal robot two point feet walking using existing gradient-based, reinforcement learning, meta-heuristic-based algorithms, etc. Currently, ongoing!&lt;/p&gt;
 </description>
     </item>
     

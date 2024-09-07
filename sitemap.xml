@@ -86,7 +86,19 @@
     <lastmod>2024-02-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://CUHKLeggedRobotLab.github.io/research/quadrupedal_manipulator/</loc>
+    <lastmod>2024-02-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://CUHKLeggedRobotLab.github.io/research/</loc>
+    <lastmod>2024-02-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://CUHKLeggedRobotLab.github.io/tag/wheel-legged-robot/</loc>
+    <lastmod>2024-02-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://CUHKLeggedRobotLab.github.io/research/wheel_legged_robot/</loc>
     <lastmod>2024-02-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -176,10 +188,6 @@
   </url><url>
     <loc>https://CUHKLeggedRobotLab.github.io/people/zhitao/</loc>
     <lastmod>2022-09-06T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://CUHKLeggedRobotLab.github.io/research/quadruped_two_leg_walking/</loc>
-    <lastmod>2022-08-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://CUHKLeggedRobotLab.github.io/publication/offline_jumping/</loc>

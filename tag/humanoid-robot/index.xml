@@ -21,5 +21,14 @@
 </description>
     </item>
     
+    <item>
+      <title>Loco-Manipulator design, control and trajectory planning</title>
+      <link>https://CUHKLeggedRobotLab.github.io/research/quadrupedal_manipulator/</link>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://CUHKLeggedRobotLab.github.io/research/quadrupedal_manipulator/</guid>
+      <description>&lt;p&gt;A research topic focus on using optimization approaches to give humanoid robot walking fast and stable. Will be realease soon.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
