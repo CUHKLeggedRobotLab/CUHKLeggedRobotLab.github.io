@@ -2,15 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://CUHKLeggedRobotLab.github.io/tag/bipedal-robot/</loc>
+    <lastmod>2024-09-01T05:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://CUHKLeggedRobotLab.github.io/</loc>
+    <lastmod>2024-09-01T05:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://CUHKLeggedRobotLab.github.io/tag/optimal-control/</loc>
+    <lastmod>2024-09-01T05:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://CUHKLeggedRobotLab.github.io/people/</loc>
+    <lastmod>2024-09-01T05:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://CUHKLeggedRobotLab.github.io/tag/quadruped-robot/</loc>
+    <lastmod>2024-09-01T05:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://CUHKLeggedRobotLab.github.io/tag/reinforcement-learning/</loc>
+    <lastmod>2024-09-01T05:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://CUHKLeggedRobotLab.github.io/tags/</loc>
+    <lastmod>2024-09-01T05:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://CUHKLeggedRobotLab.github.io/people/tianlin/</loc>
+    <lastmod>2024-09-01T05:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://CUHKLeggedRobotLab.github.io/publication-type/1/</loc>
     <lastmod>2024-03-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://CUHKLeggedRobotLab.github.io/publication/vmc_jumping/</loc>
-    <lastmod>2024-03-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://CUHKLeggedRobotLab.github.io/</loc>
     <lastmod>2024-03-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -40,30 +68,6 @@
   </url><url>
     <loc>https://CUHKLeggedRobotLab.github.io/publication/</loc>
     <lastmod>2024-03-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://CUHKLeggedRobotLab.github.io/tags/</loc>
-    <lastmod>2024-03-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://CUHKLeggedRobotLab.github.io/tag/bipedal-robot/</loc>
-    <lastmod>2024-02-06T21:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://CUHKLeggedRobotLab.github.io/tag/optimal-control/</loc>
-    <lastmod>2024-02-06T21:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://CUHKLeggedRobotLab.github.io/people/</loc>
-    <lastmod>2024-02-06T21:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://CUHKLeggedRobotLab.github.io/tag/quadruped-robot/</loc>
-    <lastmod>2024-02-06T21:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://CUHKLeggedRobotLab.github.io/tag/reinforcement-learning/</loc>
-    <lastmod>2024-02-06T21:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://CUHKLeggedRobotLab.github.io/people/shengzhi/</loc>
