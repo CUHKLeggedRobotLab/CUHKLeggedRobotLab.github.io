@@ -5,12 +5,28 @@
     <link>https://CUHKLeggedRobotLab.github.io/publication/</link>
       <atom:link href="https://CUHKLeggedRobotLab.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://CUHKLeggedRobotLab.github.io/media/icon_hubbc5c9df4c1856a6651b4bbb52031135_179537_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://CUHKLeggedRobotLab.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Online Omnidirectional Jumping Trajectory Planning for Quadrupedal Robots on Uneven Terrains</title>
+      <link>https://CUHKLeggedRobotLab.github.io/publication/omni_jumping_lz/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://CUHKLeggedRobotLab.github.io/publication/omni_jumping_lz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Traversability-Aware Legged Navigation by Learning from Real-World Visual Data</title>
+      <link>https://CUHKLeggedRobotLab.github.io/publication/traver_hb/</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://CUHKLeggedRobotLab.github.io/publication/traver_hb/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Fast Online Omnidirectional Quadrupedal Jumping Framework Via Virtual-Model Control and Minimum Jerk Trajectory Generation</title>
