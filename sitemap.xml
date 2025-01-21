@@ -2,11 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://CUHKLeggedRobotLab.github.io/</loc>
+    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://CUHKLeggedRobotLab.github.io/post/poster_hb_corl/</loc>
+    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://CUHKLeggedRobotLab.github.io/tag/poster/</loc>
+    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://CUHKLeggedRobotLab.github.io/post/</loc>
+    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://CUHKLeggedRobotLab.github.io/post/poster_tl_sr/</loc>
+    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://CUHKLeggedRobotLab.github.io/tags/</loc>
+    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://CUHKLeggedRobotLab.github.io/publication-type/2/</loc>
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://CUHKLeggedRobotLab.github.io/</loc>
+    <loc>https://CUHKLeggedRobotLab.github.io/publication/rb_mpc_lz/</loc>
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -46,10 +70,6 @@
     <lastmod>2024-09-01T05:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://CUHKLeggedRobotLab.github.io/tags/</loc>
-    <lastmod>2024-09-01T05:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://CUHKLeggedRobotLab.github.io/people/tianlin/</loc>
     <lastmod>2024-09-01T05:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -75,10 +95,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://CUHKLeggedRobotLab.github.io/tag/lab-party/</loc>
-    <lastmod>2024-03-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://CUHKLeggedRobotLab.github.io/post/</loc>
     <lastmod>2024-03-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

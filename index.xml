@@ -5,12 +5,44 @@
     <link>https://CUHKLeggedRobotLab.github.io/</link>
       <atom:link href="https://CUHKLeggedRobotLab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>CUHK Legged Robot Lab (CUHKLRL)</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://CUHKLeggedRobotLab.github.io/media/icon_hubbc5c9df4c1856a6651b4bbb52031135_179537_512x512_fill_lanczos_center_3.png</url>
       <title>CUHK Legged Robot Lab (CUHKLRL)</title>
       <link>https://CUHKLeggedRobotLab.github.io/</link>
     </image>
+    
+    <item>
+      <title>Learning to Hop for a Single-legged Robot with Parallel Mechanism</title>
+      <link>https://CUHKLeggedRobotLab.github.io/post/poster_hb_corl/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://CUHKLeggedRobotLab.github.io/post/poster_hb_corl/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Just show a poster here.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prioritized Whole-body Control for Humanoid Robots with Centroidal Dynamics</title>
+      <link>https://CUHKLeggedRobotLab.github.io/post/poster_tl_sr/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://CUHKLeggedRobotLab.github.io/post/poster_tl_sr/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Just show a poster here.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dynamic Locomotion through Robust Model Predictive Control</title>
+      <link>https://CUHKLeggedRobotLab.github.io/publication/rb_mpc_lz/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://CUHKLeggedRobotLab.github.io/publication/rb_mpc_lz/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Online Omnidirectional Jumping Trajectory Planning for Quadrupedal Robots on Uneven Terrains</title>
