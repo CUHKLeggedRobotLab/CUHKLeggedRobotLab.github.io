@@ -5,12 +5,20 @@
     <link>https://CUHKLeggedRobotLab.github.io/publication/</link>
       <atom:link href="https://CUHKLeggedRobotLab.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://CUHKLeggedRobotLab.github.io/media/icon_hubbc5c9df4c1856a6651b4bbb52031135_179537_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://CUHKLeggedRobotLab.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Robust Model Predictive Control for Quadruped Locomotion Under Model Uncertainties and External Disturbances</title>
+      <link>https://CUHKLeggedRobotLab.github.io/publication/rb_mpc_wp/</link>
+      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://CUHKLeggedRobotLab.github.io/publication/rb_mpc_wp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dynamic Locomotion through Robust Model Predictive Control</title>
@@ -81,14 +89,6 @@
       <link>https://CUHKLeggedRobotLab.github.io/publication/zhouyang_jfr/</link>
       <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://CUHKLeggedRobotLab.github.io/publication/zhouyang_jfr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Robust Model Predictive Control for Quadruped Locomotion Under Model Uncertainties and External Disturbances</title>
-      <link>https://CUHKLeggedRobotLab.github.io/publication/rb_mpc_wp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://CUHKLeggedRobotLab.github.io/publication/rb_mpc_wp/</guid>
       <description></description>
     </item>
     

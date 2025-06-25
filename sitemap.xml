@@ -2,11 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://CUHKLeggedRobotLab.github.io/tag/bipedal-robot/</loc>
-    <lastmod>2025-03-15T00:00:00+00:00</lastmod>
+    <loc>https://CUHKLeggedRobotLab.github.io/publication-type/1/</loc>
+    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://CUHKLeggedRobotLab.github.io/</loc>
+    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://CUHKLeggedRobotLab.github.io/publication_types/</loc>
+    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://CUHKLeggedRobotLab.github.io/publication/</loc>
+    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://CUHKLeggedRobotLab.github.io/publication/rb_mpc_wp/</loc>
+    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://CUHKLeggedRobotLab.github.io/tag/bipedal-robot/</loc>
     <lastmod>2025-03-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -66,14 +82,6 @@
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://CUHKLeggedRobotLab.github.io/publication_types/</loc>
-    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://CUHKLeggedRobotLab.github.io/publication/</loc>
-    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://CUHKLeggedRobotLab.github.io/publication/traver_hb/</loc>
     <lastmod>2024-10-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -84,10 +92,6 @@
   </url><url>
     <loc>https://CUHKLeggedRobotLab.github.io/people/yangxian/</loc>
     <lastmod>2024-09-06T05:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://CUHKLeggedRobotLab.github.io/publication-type/1/</loc>
-    <lastmod>2024-03-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://CUHKLeggedRobotLab.github.io/publication/vmc_jumping/</loc>
@@ -246,9 +250,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://CUHKLeggedRobotLab.github.io/categories/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://CUHKLeggedRobotLab.github.io/publication/rb_mpc_wp/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
