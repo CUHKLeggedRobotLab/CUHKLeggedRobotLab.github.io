@@ -1,0 +1,19 @@
+current directory: /home/skywoodsz/work/lab_website/hier-robotics.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/home/skywoodsz/.rbenv/versions/3.3.9/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/skywoodsz/work/lab_website/hier-robotics.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260109-10001-3f5yqu sitelibdir\=./.gem.20260109-10001-3f5yqu clean
+
+current directory: /home/skywoodsz/work/lab_website/hier-robotics.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260109-10001-3f5yqu sitelibdir\=./.gem.20260109-10001-3f5yqu
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: /home/skywoodsz/work/lab_website/hier-robotics.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260109-10001-3f5yqu sitelibdir\=./.gem.20260109-10001-3f5yqu install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20260109-10001-3f5yqu
+
+current directory: /home/skywoodsz/work/lab_website/hier-robotics.github.io/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260109-10001-3f5yqu sitelibdir\=./.gem.20260109-10001-3f5yqu clean
