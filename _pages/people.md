@@ -76,33 +76,6 @@ permalink: /people/
 
 <br><br>
 
-## Postdocs
-<div class="people-grid">
-
-  <div class="person-card">
-    <div class="person-photo">
-      <img src="/assets/images/people/linzhu.png" alt="Yue Linzhu"/>
-    </div>
-    <p style="font-size:12pt; margin:0;">
-      <b>
-        <a href="https://linzhuyue.github.io/" target="_blank" style="text-decoration:none;">
-          Yue Linzhu
-        </a>
-      </b>
-    </p>
-  </div>
-
-  <div class="person-card">
-    <div class="person-photo">
-      <img src="/assets/images/people/zhitao.png" alt="Song Zhitao"/>
-    </div>
-    <p style="font-size:12pt; margin:0;"><b>Song Zhitao</b></p>
-  </div>
-
-</div>
-
-<p></p>
-
 ## Ph.D. Students
 <div class="people-grid">
 

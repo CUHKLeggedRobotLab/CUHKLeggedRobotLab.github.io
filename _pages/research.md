@@ -98,7 +98,7 @@ permalink: /research/
 
 </div>
 
-## Environment-aware Perception and Navigation
+## Transibility-aware Perception and Navigation
 <div class="research-card">
 
   <!-- Left: Image -->
@@ -110,7 +110,7 @@ permalink: /research/
   <!-- Right: Text -->
   <div class="research-text">
     <p>
-      This research focuses on developing environment-aware perception and navigation methods tailored
+      This research focuses on developing transibility-aware perception and navigation methods tailored
       for legged robotic systems, enabling autonomous navigation in dynamic and extreme terrains.
       By leveraging onboard sensing and real-time environment assessment, the robot can reason about
       terrain geometry, traversability, and environmental changes without relying on pre-built maps.

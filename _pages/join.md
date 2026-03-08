@@ -178,7 +178,7 @@ one or more of the following research areas:
 
 <ul style="font-size:13.5pt;">
   <li><b>Robust and Precise Locomotion for Legged Robots</b></li>
-  <li><b>Environment-aware Perception and Navigation</b></li>
+  <li><b>Transibility-aware Perception and Navigation</b></li>
   <li><b>Dexterous and Whole-Body Coordinated Loco-Manipulation</b></li>
   <li><b>Safe Actuator and Mechanical System Design</b></li>
   <li><b>Reinforcement Learning and Imitation Learning</b></li>
@@ -189,7 +189,7 @@ Please refer to our ongoing research projects for more details on the research d
 and methodologies.
 </p>
 
-## Ph.D. Openings for Fall 2027
+<!-- ## Ph.D. Openings for Fall 2027
 
 <p style="font-size:13.5pt;">
 For <b>Fall 2027</b>, we have Ph.D. openings in the following research areas:
@@ -199,7 +199,7 @@ For <b>Fall 2027</b>, we have Ph.D. openings in the following research areas:
   <li><b>Robust and Precise Locomotion for Legged Robots</b></li>
   <li><b>Environment-aware Perception and Navigation</b></li>
   <li><b>Dexterous and Whole-Body Coordinated Loco-Manipulation</b></li>
-</ul>
+</ul> -->
 
 ## Notes
 
@@ -229,6 +229,7 @@ Applicants are expected to have experience in <b>at least two</b> of the followi
   <li>Motor control and low-level actuator control</li>
   <li>Robot SLAM and motion planning</li>
   <li>Impedance control for manipulators</li>
+  <li>Mechanical design and circuit design</li>
 </ul>
 
 <p style="font-size:13.5pt;">
