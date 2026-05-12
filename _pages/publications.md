@@ -73,6 +73,25 @@ permalink: /publications/
 
 <br>
 
+## 2026
+
+<div class="pub-card">
+  <div class="pub-media">
+    <img src="/assets/images/publications/RSS_2026_VRA.png" alt="VRA">
+  </div>
+  <div>
+    <div class="pub-title">VRA: Grounding Discrete-Time Joint Acceleration in Voltage-Constrained Actuation </div>
+    <div class="pub-authors">
+      Lingwei Zhang, Jiaming Wang, Tianlin Zhang, Zhitao Song, Xuanqi Zeng, Weipeng Xia, Zhongyu Li, Yun-hui Liu
+    </div>
+    <div class="pub-venue">Robotics: Science and Systems (<b>RSS</b>), 2026</div>
+    <div class="pub-links">
+      <a href="https://zlwsss.github.io/VRA/">web</a> 
+    </div>
+  </div>
+</div>
+
+
 ## 2025
 
 <div class="pub-card">

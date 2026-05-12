@@ -151,27 +151,43 @@ permalink: /people/
     </p>
   </div>
 
-</div>
-
-<p></p>
-
-## Research Assistants
-<div class="people-grid">
-
   <div class="person-card">
     <div class="person-photo">
       <img src="/assets/images/people/weipeng.png" alt="Xia Weipeng"/>
     </div>
-    <p style="font-size:12pt; margin:0;"><b>Xia Weipeng</b></p>
+    <p style="font-size:12pt; margin:0;">
+      <b>Xia Weipeng</b><br>
+      MAE Ph.D (2026 Fall)
+    </p>
   </div>
 
   <div class="person-card">
     <div class="person-photo">
       <img src="/assets/images/people/jiaming.png" alt="Wang Jiaming"/>
     </div>
-    <p style="font-size:12pt; margin:0;"><b>Wang Jiaming</b></p>
+    <p style="font-size:12pt; margin:0;">
+      <b>Wang Jiaming</b><br>
+      MAE Ph.D (2026 Fall)
+      </p>
+  </div>
+
+  <div class="person-card">
+    <div class="person-photo">
+      <img src="/assets/images/people/diwen.jpeg" alt="Liu Diwen"/>
+    </div>
+    <p style="font-size:12pt; margin:0;">
+      <b>Liu Diwen</b><br>
+      MAE Ph.D (2026 Fall)
+      </p>
   </div>
 
 </div>
 
 <p></p>
+
+<!-- ## Research Assistants -->
+<!-- <div class="people-grid">
+
+</div>
+
+<p></p> -->
