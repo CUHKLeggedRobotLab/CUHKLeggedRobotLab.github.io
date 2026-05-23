@@ -38,6 +38,19 @@ permalink: /people/
   justify-content: start;    /* 👈 左对齐，不拉开 */
 }
 
+/* Alumni vertical list */
+.alumni-grid{
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+}
+.alumni-grid .person-card{
+  width: 100%;
+  text-align: left;
+  padding: 6px 0;
+}
+
 .page__content h1 {
   font-size: 30px;
   margin-bottom: 20px;
@@ -191,6 +204,28 @@ permalink: /people/
       <b>Liu Diwen</b><br>
       MAE Ph.D (2026 Fall)
       </p>
+  </div>
+
+</div>
+
+<p></p>
+
+## Alumni
+
+<div class="people-grid">
+
+  <div class="person-card">
+    <p style="font-size:12pt; margin:0;">
+      <b>Dr. Yue Linzhu</b><br>
+      Graduated in 2025
+    </p>
+  </div>
+
+  <div class="person-card">
+    <p style="font-size:12pt; margin:0;">
+      <b>Dr. Song Zhitao</b><br>
+      Graduated in 2025
+    </p>
   </div>
 
 </div>
