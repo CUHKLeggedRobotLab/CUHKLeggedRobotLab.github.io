@@ -14,7 +14,7 @@ permalink: /publications/
 /* ===== Publication cards (ONLY this page) ===== */
 .page__content .pub-card{
   display: grid;
-  grid-template-columns: 240px 1fr;
+  grid-template-columns: 300px 1fr;
   gap: 18px;
   margin: 18px 0 26px 0;
   align-items: start;
@@ -22,8 +22,7 @@ permalink: /publications/
 
 /* ===== Publication cards (ONLY this page) ===== */
 .page__content .pub-media{
-  width: 240px;              
-  aspect-ratio: 16 / 9;      
+  width: 100%;
   overflow: hidden;
   border-radius: 10px;
   border: 1px solid #ddd;
@@ -32,7 +31,7 @@ permalink: /publications/
 
 .page__content .pub-media img{
   width: 100%;
-  height: 100%;
+  height: auto;
   object-fit: cover;         
   object-position: center;   
   display: block;
@@ -77,6 +76,54 @@ permalink: /publications/
 
 <div class="pub-card">
   <div class="pub-media">
+    <img src="/assets/images/publications/online_learning.gif" alt="Online learning of heterogeneous locomotion dynamics for precise loco-manipulation">
+  </div>
+  <div>
+    <div class="pub-title">Online Learning of Heterogeneous Locomotion Dynamics under Reinforcement Learning Policies for Precise Loco-Manipulation</div>
+    <div class="pub-authors">
+      Tianlin Zhang, Weipeng Xia, Lingwei Zhang, Yiyang Shao, Zhongyu Li, Yun-Hui Liu
+    </div>
+    <div class="pub-venue">arXiv preprint, arXiv:2610.41892, 2026</div>
+    <div class="pub-links">
+      <a href="https://arxiv.org/abs/2610.41892">arXiv</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-media">
+    <img src="/assets/images/publications/arxiv_2026_force_aware_loco_manipulation.png" alt="Force-aware wheeled-legged robot performing valve rotation, wiping, door opening, and human-guided motion">
+  </div>
+  <div>
+    <div class="pub-title">Force-Aware Reinforcement Learning with Hybrid Sensorless Force Estimation for Wheeled-Legged Loco-Manipulation</div>
+    <div class="pub-authors">
+      Xuanqi Zeng, Jiaming Wang, Tianlin Zhang, Lingwei Zhang, Botian Xu, Weipeng Xia, Zhongyu Li, Yun-Hui Liu
+    </div>
+    <div class="pub-venue">arXiv preprint, arXiv:2609.13779, 2026</div>
+    <div class="pub-links">
+      <a href="https://arxiv.org/abs/2609.13779">arXiv</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-media">
+    <img src="/assets/images/publications/arxiv_2026_wheeled_legged_jumping.png" alt="Quadrupedal wheeled-legged robot jumping over an obstacle">
+  </div>
+  <div>
+    <div class="pub-title">Jumping Control for a Quadrupedal Wheeled-Legged Robot via NMPC and DE Optimization</div>
+    <div class="pub-authors">
+      Xuanqi Zeng, Lingwei Zhang, Linzhu Yue, Zhitao Song, Hongbo Zhang, Tianlin Zhang, Yun-Hui Liu
+    </div>
+    <div class="pub-venue">arXiv preprint, arXiv:2602.21612, 2026</div>
+    <div class="pub-links">
+      <a href="https://arxiv.org/abs/2602.21612">arXiv</a>
+    </div>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-media">
     <img src="/assets/images/publications/RSS_2026_VRA.png" alt="VRA">
   </div>
   <div>
@@ -86,11 +133,28 @@ permalink: /publications/
     </div>
     <div class="pub-venue">Robotics: Science and Systems (<b>RSS</b>), 2026</div>
     <div class="pub-links">
-      <a href="https://zlwsss.github.io/VRA/">web</a> 
+      <a href="https://arxiv.org/abs/2605.10696">arXiv</a> |
+      <a href="https://zlwsss.github.io/VRA/">web</a>
     </div>
   </div>
 </div>
 
+
+<div class="pub-card">
+  <div class="pub-media">
+    <img src="/assets/images/publications/acc_2026_collaborative_quadrupeds.png" alt="A team of collaborative quadrupeds manipulating and transporting an object">
+  </div>
+  <div>
+    <div class="pub-title">Shared Object Manipulation with a Team of Collaborative Quadrupeds</div>
+    <div class="pub-authors">
+      Shengzhi Wang, Niels Dehio, Xuanqi Zeng, Xian Yang, Lingwei Zhang, Yun-Hui Liu, K. W. Samuel Au
+    </div>
+    <div class="pub-venue">American Control Conference (<b>ACC</b>), IEEE, 2026</div>
+    <div class="pub-links">
+      <a href="https://arxiv.org/abs/2510.00682">arXiv</a>
+    </div>
+  </div>
+</div>
 
 ## 2025
 

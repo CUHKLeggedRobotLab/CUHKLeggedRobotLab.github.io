@@ -202,8 +202,28 @@ permalink: /people/
     </div>
     <p style="font-size:12pt; margin:0;">
       <b>Liu Diwen</b><br>
-      MAE Ph.D (2026 Fall)
+      HKPFS Ph.D (2026 Fall)<br>
       </p>
+  </div>
+
+  <div class="person-card">
+    <div class="person-photo">
+      <img src="{{ '/assets/images/people/xinyu.jpg' | relative_url }}" alt="Zhang Xinyu"/>
+    </div>
+    <p style="font-size:12pt; margin:0;">
+      <b>Zhang Xinyu</b><br>
+      MAE Ph.D (2026Fall)
+    </p>
+  </div>
+
+  <div class="person-card">
+    <div class="person-photo">
+      <img src="{{ '/assets/images/people/anonymous.svg' | relative_url }}" alt="Chen Kun (anonymous portrait)"/>
+    </div>
+    <p style="font-size:12pt; margin:0;">
+      <b>Chen Kun</b><br>
+      MAE Ph.D (2026Fall)
+    </p>
   </div>
 
 </div>
