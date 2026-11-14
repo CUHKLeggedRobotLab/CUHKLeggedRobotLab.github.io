@@ -191,7 +191,11 @@ permalink: /people/
       <img src="/assets/images/people/jiaming.png" alt="Wang Jiaming"/>
     </div>
     <p style="font-size:12pt; margin:0;">
-      <b>Wang Jiaming</b><br>
+      <b>
+        <a href="https://gaming722.github.io/" target="_blank" style="text-decoration:none;">
+          Wang Jiaming
+        </a>
+      </b><br>
       MAE Ph.D (2026 Fall)
       </p>
   </div>
